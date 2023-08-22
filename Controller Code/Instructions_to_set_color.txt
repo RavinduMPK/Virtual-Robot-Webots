@@ -1,0 +1,13 @@
+To change the colour, please follow the following steps,
+
+	1) Open the colorsensor.cpp file
+	2) Go to the line number 831
+		This is the code line in there
+
+		const char* colour = "line_colour";
+	
+	3) In this line,
+		i) If robot should follow the red dotted lines, change "line_colour" to "red"
+	     ii) If robot should follow the blue dotted lines, change "line_colour" to "blue"
+	
+	4) Finall, recompile the code file.
