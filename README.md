@@ -18,6 +18,7 @@ The simulation task involves designing a virtual robot capable of completing the
 ### Line Following
 
 The robot must accurately follow a white line on a black surface. The path may include straight and curved lines.
+
 ![Following line](https://github.com/RavinduMPK/Virtual-Robot-Webots/assets/68577937/ae27686a-3d39-4c9a-84a5-4e7c0948b61e)
 
 
