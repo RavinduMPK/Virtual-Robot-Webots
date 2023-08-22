@@ -93,8 +93,8 @@ You can find here,
 ## Contact Information
 
 If you have questions or need further clarification about the simulation task, feel free to reach out to us:
-- Email: [your_email@example.com]
-- LinkedIn: [Your LinkedIn Profile URL]
+- Email: [ravindumadushan005@gmail.com]
+- LinkedIn: [linkedin.com/in/ravindu-madushan-b5b078217]
 
 ---
 
